@@ -44,11 +44,12 @@
             this.label1 = new System.Windows.Forms.Label();
             this.labelStatus = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnConnect
             // 
-            this.btnConnect.Location = new System.Drawing.Point(417, 93);
+            this.btnConnect.Location = new System.Drawing.Point(387, 136);
             this.btnConnect.Name = "btnConnect";
             this.btnConnect.Size = new System.Drawing.Size(75, 23);
             this.btnConnect.TabIndex = 5;
@@ -68,10 +69,10 @@
             // 
             // txtStatus
             // 
-            this.txtStatus.Location = new System.Drawing.Point(301, 128);
+            this.txtStatus.Location = new System.Drawing.Point(378, 241);
             this.txtStatus.Multiline = true;
             this.txtStatus.Name = "txtStatus";
-            this.txtStatus.Size = new System.Drawing.Size(142, 42);
+            this.txtStatus.Size = new System.Drawing.Size(323, 111);
             this.txtStatus.TabIndex = 12;
             // 
             // txtName
@@ -100,7 +101,7 @@
             this.txtCondition.Location = new System.Drawing.Point(32, 241);
             this.txtCondition.Multiline = true;
             this.txtCondition.Name = "txtCondition";
-            this.txtCondition.Size = new System.Drawing.Size(490, 111);
+            this.txtCondition.Size = new System.Drawing.Size(310, 111);
             this.txtCondition.TabIndex = 16;
             // 
             // label3
@@ -142,17 +143,17 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(299, 80);
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(384, 101);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(91, 16);
+            this.label7.Size = new System.Drawing.Size(110, 20);
             this.label7.TabIndex = 21;
             this.label7.Text = "Server Status:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(636, 356);
+            this.label2.Location = new System.Drawing.Point(679, 372);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(68, 13);
             this.label2.TabIndex = 23;
@@ -161,7 +162,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(636, 382);
+            this.label1.Location = new System.Drawing.Point(679, 398);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(56, 13);
             this.label1.TabIndex = 22;
@@ -170,10 +171,10 @@
             // labelStatus
             // 
             this.labelStatus.AutoSize = true;
-            this.labelStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelStatus.Location = new System.Drawing.Point(298, 100);
+            this.labelStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelStatus.Location = new System.Drawing.Point(490, 101);
             this.labelStatus.Name = "labelStatus";
-            this.labelStatus.Size = new System.Drawing.Size(97, 16);
+            this.labelStatus.Size = new System.Drawing.Size(116, 20);
             this.labelStatus.TabIndex = 24;
             this.labelStatus.Text = "Not Connected";
             // 
@@ -187,12 +188,23 @@
             this.label8.TabIndex = 25;
             this.label8.Text = "KwikMedical Input Client";
             // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(384, 215);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(137, 20);
+            this.label9.TabIndex = 26;
+            this.label9.Text = "Server Processes:";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.ClientSize = new System.Drawing.Size(728, 409);
+            this.ClientSize = new System.Drawing.Size(759, 419);
+            this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.labelStatus);
             this.Controls.Add(this.label2);
@@ -234,6 +246,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label labelStatus;
         private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
     }
 }
 

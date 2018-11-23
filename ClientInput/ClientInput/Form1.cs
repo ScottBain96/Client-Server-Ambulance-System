@@ -14,7 +14,7 @@ namespace ClientInput
     public partial class Form1 : Form
     {
         //DATABASE CONNECTION
-
+        
         SqlConnection conn = new SqlConnection(Properties.Settings.Default.KwikdataBaseConnectionString2);
 
         Patient patient = new Patient();
@@ -85,17 +85,50 @@ namespace ClientInput
 
                    }
 
+                  
+                   string queryString = "SELECT * FROM MedicalRecords WHERE numberNHS=" + patient.numberNHS + ";";
+                   SqlCommand commands =
+                       new SqlCommand(queryString, conn);
+                 //  conn.Open();
+
+                   SqlDataReader reader = commands.ExecuteReader();
+
+
+                   while (reader.Read())
+                   {
+                       ReadSingleRow((IDataRecord)reader);
+                       
+                   }
+
+
+                   reader.Close();
+
+
+
+
+
+
+
+
                    if (conn != null)
                    {
                        conn.Close(); 
 
                    }
 
+
+
+
+
+         
                 
                    e.ReplyLine(string.Format("Record added for: {0}", patient.name+Environment.NewLine));
                });
 
-          
+
+         
+
+
         }
 
         //Stop server
@@ -114,7 +147,7 @@ namespace ClientInput
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var queryString = "DELETE FROM LocalHelp;";
+            var queryString = "DELETE FROM MedicalRecords;";
             conn.Open();
             SqlCommand command = new SqlCommand(queryString, conn);
             command.ExecuteNonQuery();
@@ -123,8 +156,9 @@ namespace ClientInput
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
-            string queryString =
-               "SELECT Address FROM LocalHelp WHERE Name='becca';";
+            // string queryString = "SELECT address FROM MedicalRecords WHERE numberNHS ='9306173';";
+            int number = 2292929;
+            string queryString = "SELECT * FROM MedicalRecords WHERE numberNHS="+number+";";
             SqlCommand command =
                 new SqlCommand(queryString, conn);
             conn.Open();
@@ -142,9 +176,13 @@ namespace ClientInput
 
         }
 
-        private static void ReadSingleRow(IDataRecord record)
+        private  void ReadSingleRow(IDataRecord record) //static
         {
-            Console.WriteLine(String.Format("{0}", record[0]));
+            Console.WriteLine(String.Format("{0},{1}", record[0], record[1]));
+            string test = (String.Format("NumberNHS:{0} ,Surname: {1}", record[0], record[1]));
+            txtTest.Text = test;
+            
+
         }
 
       
