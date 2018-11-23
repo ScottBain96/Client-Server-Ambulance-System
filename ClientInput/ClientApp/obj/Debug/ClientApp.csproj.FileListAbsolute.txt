@@ -1,0 +1,11 @@
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\bin\Debug\SimpleTCP.dll
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.pdb

@@ -1,0 +1,23 @@
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\bin\Debug\SimpleTCP.dll
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientApp\obj\Debug\ClientApp.pdb
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\bin\Debug\SimpleTCP.dll
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientApp\obj\Debug\ClientApp.pdb

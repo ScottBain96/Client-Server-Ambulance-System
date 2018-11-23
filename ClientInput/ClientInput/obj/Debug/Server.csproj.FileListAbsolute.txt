@@ -1,0 +1,23 @@
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\bin\Debug\ClientInput.exe.config
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\bin\Debug\ClientInput.exe
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\bin\Debug\ClientInput.pdb
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\bin\Debug\SimpleTCP.dll
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.Form1.resources
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.Properties.Resources.resources
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.exe
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.pdb
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\bin\Debug\ClientInput.exe.config
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\bin\Debug\ClientInput.exe
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\bin\Debug\ClientInput.pdb
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\bin\Debug\SimpleTCP.dll
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\ClientInput.Form1.resources
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\ClientInput.Properties.Resources.resources
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\ClientInput.exe
+C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\ClientInput.pdb

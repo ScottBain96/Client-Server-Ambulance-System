@@ -1,0 +1,12 @@
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\bin\Debug\ClientInput.exe.config
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\bin\Debug\ClientInput.exe
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\bin\Debug\ClientInput.pdb
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\bin\Debug\SimpleTCP.dll
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.csprojAssemblyReference.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.Form1.resources
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.Properties.Resources.resources
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.csproj.GenerateResource.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.csproj.CoreCompileInputs.cache
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.csproj.CopyComplete
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.exe
+C:\Users\Scott\OneDrive\Documents\Visual Studio 2017\Projects\ClientInput\ClientInput\obj\Debug\ClientInput.pdb
