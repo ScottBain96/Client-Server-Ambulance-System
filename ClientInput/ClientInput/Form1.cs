@@ -64,7 +64,7 @@ namespace ClientInput
 
                    string text1 = e.MessageString;
                    //txtStatus.Text = text1;
-                   string[] mytext1 = txtStatus.Text.Split(',');
+                   string[] mytext1 = text1.Split(',');
                    patient.name = mytext1[0];
                    patient.numberNHS = mytext1[1];
                    patient.address = mytext1[2];
