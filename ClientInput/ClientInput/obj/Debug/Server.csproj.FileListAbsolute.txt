@@ -21,3 +21,14 @@ C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientI
 C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\ClientInput.exe
 C:\Users\Scott\Downloads\SoftArchCw-master\SoftArchCw-master\ClientInput\ClientInput\obj\Debug\ClientInput.pdb
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\bin\Debug\ClientInput.exe.config
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\bin\Debug\ClientInput.exe
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\bin\Debug\ClientInput.pdb
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\bin\Debug\SimpleTCP.dll
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\obj\Debug\ClientInput.Form1.resources
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\obj\Debug\ClientInput.Properties.Resources.resources
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\obj\Debug\ClientInput.exe
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\ClientInput\obj\Debug\ClientInput.pdb

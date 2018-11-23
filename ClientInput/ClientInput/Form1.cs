@@ -21,7 +21,9 @@ namespace ClientInput
         public Form1()
         {
             InitializeComponent();
-           
+            txtStatus.ReadOnly = true;
+            txtStatus.BackColor = System.Drawing.SystemColors.Window;
+
         }
 
         SimpleTcpServer server;
@@ -61,12 +63,13 @@ namespace ClientInput
                   //Retrieving message and setting up the variables of the patient class to then use it on the database
 
                    string text1 = e.MessageString;
-                   txtStatus.Text = text1;
+                   //txtStatus.Text = text1;
                    string[] mytext1 = txtStatus.Text.Split(',');
                    patient.name = mytext1[0];
                    patient.numberNHS = mytext1[1];
                    patient.address = mytext1[2];
                    patient.condition = mytext1[3].Remove(mytext1[3].Length-1);
+
 
 
                    //Insert values of textBoxes to the database
@@ -78,7 +81,7 @@ namespace ClientInput
                    {
                        conn.Open();
                        command.ExecuteNonQuery();
-                       
+                       txtStatus.Text += "Added record for " + patient.name+Environment.NewLine;
 
                    }
 
@@ -89,7 +92,7 @@ namespace ClientInput
                    }
 
                 
-                   e.ReplyLine(string.Format("Record added for: {0}", patient.name));
+                   e.ReplyLine(string.Format("Record added for: {0}", patient.name+Environment.NewLine));
                });
 
           
@@ -128,13 +131,13 @@ namespace ClientInput
 
             SqlDataReader reader = command.ExecuteReader();
 
-            // Call Read before accessing data.
+            
             while (reader.Read())
             {
                 ReadSingleRow((IDataRecord)reader);
             }
 
-            // Call Close when done reading.
+         
             reader.Close();
 
         }

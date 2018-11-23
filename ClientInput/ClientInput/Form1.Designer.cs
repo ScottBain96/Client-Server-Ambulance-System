@@ -62,7 +62,7 @@
             // 
             // txtStatus
             // 
-            this.txtStatus.Location = new System.Drawing.Point(155, 143);
+            this.txtStatus.Location = new System.Drawing.Point(156, 136);
             this.txtStatus.Multiline = true;
             this.txtStatus.Name = "txtStatus";
             this.txtStatus.Size = new System.Drawing.Size(314, 103);

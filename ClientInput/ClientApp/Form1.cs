@@ -16,6 +16,8 @@ namespace ClientApp
         {
             InitializeComponent();
             btnSend.Enabled = false;
+            txtStatus.ReadOnly = true;
+            txtStatus.BackColor = System.Drawing.SystemColors.Window;
         }
 
         SimpleTcpClient client;
