@@ -16,8 +16,7 @@ Requires the server to be online in order to connect.
 
 <h2>Communicating together</h2>
 
-<img src="images/communication.PNG"> 
-
+<img src="images/CommunicationClient.PNG"><img src="images/CommunicationServer.PNG"> 
 
 Once the server is online, the client can be connected. When connections are successful, the statuses will change to connected.
 
