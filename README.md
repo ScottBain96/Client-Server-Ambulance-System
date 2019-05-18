@@ -1,5 +1,6 @@
 <h1>Server/Client Ambulance System using TCP/IP<h/1>
 
+Application created in WPF to demonstrate the Client-Server model.
 
 <h2>Server application</h2>
 
