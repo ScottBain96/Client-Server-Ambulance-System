@@ -1,0 +1,10 @@
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\bin\Debug\Ambulance.exe.config
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\bin\Debug\Ambulance.exe
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\bin\Debug\Ambulance.pdb
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\bin\Debug\SimpleTCP.dll
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\obj\Debug\Ambulance.Form1.resources
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\obj\Debug\Ambulance.Properties.Resources.resources
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\obj\Debug\Ambulance.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\obj\Debug\Ambulance.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\obj\Debug\Ambulance.exe
+C:\Users\Scott\Documents\GitHub\softFinal\ClientInput\Ambulance\obj\Debug\Ambulance.pdb
