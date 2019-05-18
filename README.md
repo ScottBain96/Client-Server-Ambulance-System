@@ -18,6 +18,7 @@ Requires the server to be online in order to connect.
 
 <img src="images/communication.PNG"> 
 
+
 Once the server is online, the client can be connected. When connections are successful, the statuses will change to connected.
 
 After this, the client can send requests to the server (in this case filling in a form with information and the client is notified when it's processed by the server). 
